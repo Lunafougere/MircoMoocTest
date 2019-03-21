@@ -1,0 +1,14 @@
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+F:\LYJ\,net Learn\code\MircoMoocTest\TodoListApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
